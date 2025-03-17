@@ -1,4 +1,4 @@
-# Penetration Testing Lab: Password Cracking Demonstration
+# Penetration Testing Lab: Password Cracking Demonstration 🔐
 
 ## Overview
 
